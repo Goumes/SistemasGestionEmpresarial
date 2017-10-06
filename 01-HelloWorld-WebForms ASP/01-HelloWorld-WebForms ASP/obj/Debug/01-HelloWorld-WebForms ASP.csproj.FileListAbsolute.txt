@@ -1,0 +1,57 @@
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\csc.exe
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\csc.exe.config
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\csc.rsp
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\csi.exe
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\csi.exe.config
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\csi.rsp
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.AppContext.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Collections.Immutable.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Console.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Diagnostics.Process.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.IO.Compression.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.IO.FileSystem.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.IO.Pipes.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Reflection.Metadata.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Security.AccessControl.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Security.Claims.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Security.Principal.Windows.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Threading.Thread.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.ValueTuple.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Xml.XPath.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\vbc.exe
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\vbc.exe.config
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\vbc.rsp
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\VBCSCompiler.exe
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\roslyn\VBCSCompiler.exe.config
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\01-HelloWorld-WebForms ASP.dll.config
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\01-HelloWorld-WebForms ASP.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\01-HelloWorld-WebForms ASP.pdb
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\obj\Debug\01-HelloWorld-WebForms ASP.csprojResolveAssemblyReference.cache
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\obj\Debug\01-HelloWorld-WebForms ASP.csproj.CoreCompileInputs.cache
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\obj\Debug\01-HelloWorld-WebForms ASP.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\01-HelloWorld-WebForms ASP\01-HelloWorld-WebForms ASP\obj\Debug\01-HelloWorld-WebForms ASP.pdb

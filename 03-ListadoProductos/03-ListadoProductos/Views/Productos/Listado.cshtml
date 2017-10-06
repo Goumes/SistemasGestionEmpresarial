@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Listado</title>
+</head>
+<body>
+    <div>
+        <ul>
+            <!--
+            <li>Producto1</li>
+            <li>Producto2</li>
+            <li>Producto3</li>
+            <li>Producto4</li>
+            <li>Producto5</li>
+             -->
+            @for (int i = 0; i < 10; i++)
+            {
+                <li>Producto @i</li>
+            }
+     </ul>
+    </div>
+</body>
+</html>
