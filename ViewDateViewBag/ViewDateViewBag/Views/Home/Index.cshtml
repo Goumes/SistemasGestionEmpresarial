@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+@model ViewDateViewBag.Models.clsPersona
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <p>Hola, @ViewData["saludo"]. Estamos a @ViewBag.fecha </p>
+        <p>idPersona: @Model.idPersona</p>
+        <p>Nombre: @Model.nombre</p>
+        <p>Apellidos: @Model.apellidos</p>
+        <p>Fecha Nacimiento: @Model.fechaNac</p>
+        <p>Direccion: @Model.direccion</p>
+        <p>Telefono: @Model.telefono</p>
+    </div>
+</body>
+</html>
