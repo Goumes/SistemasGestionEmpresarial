@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ViewDateViewBag.Models;
 
-namespace ViewDateViewBag.Models
+namespace ViewDateViewBag.Controllers
 {
     public class HomeController : Controller
     {
@@ -39,16 +40,22 @@ namespace ViewDateViewBag.Models
             ViewBag.fecha = fecha;
 
 
-
             clsPersona oPersona = new clsPersona();
             oPersona.idPersona = 1;
-            oPersona.nombre = "Fran";
-            oPersona.apellidos = "Carmona";
-            oPersona.fechaNac = new DateTime(1995, 09, 08);
-            oPersona.direccion = "Mi calle 2";
-            oPersona.telefono = "98787654";
+            oPersona.nombre = "Alejandro";
+            oPersona.apellidos = "Gómez";
+            oPersona.fechaNac = new DateTime(1996, 10, 28);
+            oPersona.direccion = "Mi calle";
+            oPersona.telefono = "954224444";
 
             return View(oPersona);
+        }
+
+        public ActionResult ListaPersonas()
+        {
+            clsListaPersonas listaPersonas = new clsListaPersonas();
+
+            return View(listaPersonas);
         }
     }
 }

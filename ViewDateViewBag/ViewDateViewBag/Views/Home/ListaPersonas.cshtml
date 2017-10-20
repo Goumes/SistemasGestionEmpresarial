@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+@model ViewDateViewBag.Models.clsListaPersonas
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListaPersonas</title>
+</head>
+<body>
+    <div> 
+        <ul>
+            @foreach (var persona in Model.enviarListado ())
+            {
+                 <br/>
+                <li>@persona.idPersona</li>
+                <li>@persona.nombre</li>
+                <li>@persona.apellidos</li>
+                <li>@persona.direccion</li>
+                <li>@persona.telefono</li>
+            }
+        </ul>
+    </div>
+</body>
+</html>
