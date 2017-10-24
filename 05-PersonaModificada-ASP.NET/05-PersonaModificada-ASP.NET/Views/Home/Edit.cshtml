@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+@model _05_PersonaModificada_ASP.Models.clsPersona
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div> 
+        <form method="POST"/>
+            <p>Nombre</p> 
+            <input type="text" name="nombre" value="@Model.nombre"/><br/>
+            <p>Apellidos</p> 
+            @Html.TextBox("apellidos", Model.apellidos)  
+            <p>Direccion</p> 
+            @Html.TextBoxFor(model => model.direccion)
+            <p>Telefono</p> 
+            @Html.TextBoxFor(model => model.telefono)<br /><br />
+            <input type="submit" name="enviar" value="Enviar"/>
+        </form>
+    </div>
+</body>
+</html>
