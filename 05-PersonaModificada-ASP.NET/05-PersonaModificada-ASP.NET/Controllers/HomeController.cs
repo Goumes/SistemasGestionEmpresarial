@@ -1,4 +1,4 @@
-﻿using _05_PersonaModificada_ASP.Models;
+﻿using _05_PersonaModificada_ASP.Models.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

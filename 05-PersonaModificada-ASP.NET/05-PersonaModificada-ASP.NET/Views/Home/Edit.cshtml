@@ -2,7 +2,7 @@
 @{
     Layout = null;
 }
-@model _05_PersonaModificada_ASP.Models.clsPersona
+@model _05_PersonaModificada_ASP.NET.Models.ViewModels.PersonasDepartamentos
 
 <!DOCTYPE html>
 
@@ -15,7 +15,7 @@
     <div> 
         <form method="POST"/>
             <p>Nombre</p> 
-            <input type="text" name="nombre" value="@Model.nombre"/><br/>
+            <input type="text" name="nombre" value="@Model.persona.nombre"/><br/>
             <p>Apellidos</p> 
             @Html.TextBox("apellidos", Model.apellidos)  
             <p>Direccion</p> 

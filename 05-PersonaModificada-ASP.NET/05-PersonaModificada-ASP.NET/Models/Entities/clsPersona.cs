@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace _05_PersonaModificada_ASP.Models
+namespace _05_PersonaModificada_ASP.Models.Entities
 {
     public class clsPersona
     {
@@ -13,6 +13,7 @@ namespace _05_PersonaModificada_ASP.Models
         public DateTime fechaNac { get; set; }
         public string direccion { get; set; }
         public string telefono { get; set; }
+        public int idDepartamento { get; set; }
 
         public clsPersona()
         {
