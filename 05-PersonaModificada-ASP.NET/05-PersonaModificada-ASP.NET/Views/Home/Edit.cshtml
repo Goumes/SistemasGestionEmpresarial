@@ -1,8 +1,7 @@
-﻿
-@{
+﻿@{
     Layout = null;
 }
-@model _05_PersonaModificada_ASP.NET.Models.ViewModels.PersonasDepartamentos
+@model _05_PersonaModificada_ASP.Models.ViewModels.PersonasDepartamentos
 
 <!DOCTYPE html>
 
@@ -13,15 +12,22 @@
 </head>
 <body>
     <div> 
-        <form method="POST"/>
+        <form method="post" action=""/>
             <p>Nombre</p> 
-            <input type="text" name="nombre" value="@Model.persona.nombre"/><br/>
+            <input type="text" name="nombre" value="@Model.nombre"/><br/>
             <p>Apellidos</p> 
             @Html.TextBox("apellidos", Model.apellidos)  
             <p>Direccion</p> 
             @Html.TextBoxFor(model => model.direccion)
             <p>Telefono</p> 
             @Html.TextBoxFor(model => model.telefono)<br /><br />
+            <p>Departamentos</p>
+            @Html.DropDownListFor(m => m.idDepartamento, new SelectList (Model.listado.departamentos, "idDepartamento", "nombre"))
+
+            <!-- El desplegable -->
+            
+            
+
             <input type="submit" name="enviar" value="Enviar"/>
         </form>
     </div>

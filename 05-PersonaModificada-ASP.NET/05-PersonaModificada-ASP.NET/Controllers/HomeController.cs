@@ -1,4 +1,5 @@
 ﻿using _05_PersonaModificada_ASP.Models.Entities;
+using _05_PersonaModificada_ASP.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,15 +14,17 @@ namespace _05_PersonaModificada_ASP.NET.Views.Controllers
         // GET: Home
         public ActionResult Edit()
         {
-            clsPersona persona = new clsPersona();
+            PersonasDepartamentos personasDepartamentos = new PersonasDepartamentos();
 
-            return View(persona);
+            return View(personasDepartamentos);
         }
 
         [HttpPost]
-        public ActionResult Edit(clsPersona persona)
+        public ActionResult Edit(PersonasDepartamentos personasDepartamentos)
         {
-            return View("PersonaModificada", persona);
+            clsPersonaNombreDepartamento pnd = new clsPersonaNombreDepartamento();
+            pnd.nombreDepartamento = personasDepartamentos.listado.getNombreDepartamento (personasDepartamentos.idDepartamento);
+            return View("PersonaModificada", pnd);
         }
     }
 }

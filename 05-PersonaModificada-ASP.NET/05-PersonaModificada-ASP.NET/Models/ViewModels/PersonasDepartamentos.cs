@@ -1,26 +1,18 @@
 ﻿using _05_PersonaModificada_ASP.Models.Entities;
+using _05_PersonaModificada_ASP.Models.Lists;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace _05_PersonaModificada_ASP.NET.Models.ViewModels
+namespace _05_PersonaModificada_ASP.Models.ViewModels
 {
-    public class PersonasDepartamentos
+    public class PersonasDepartamentos : clsPersona
     {
-        public clsPersona persona { get; set; }
-        public clsDepartamentos departamento { get; set; }
-
-        public PersonasDepartamentos()
+        public clsListadoDep listado { get; set; }
+        public PersonasDepartamentos() : base () //Esto es como el super
         {
-            persona = new clsPersona();
-            departamento = new clsDepartamentos();
-        }
-
-        public PersonasDepartamentos(clsPersona persona, clsDepartamentos departamento)
-        {
-            this.persona = persona;
-            this.departamento = departamento;
+            listado = new clsListadoDep();
         }
     }
 }
