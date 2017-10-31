@@ -10,7 +10,6 @@ namespace _05_PersonaModificada_ASP.NET.Views.Controllers
 {
         public class HomeController : Controller
     {
-        //[HttpPost]
         // GET: Home
         public ActionResult Edit()
         {
@@ -24,6 +23,12 @@ namespace _05_PersonaModificada_ASP.NET.Views.Controllers
         {
             clsPersonaNombreDepartamento pnd = new clsPersonaNombreDepartamento();
             pnd.nombreDepartamento = personasDepartamentos.listado.getNombreDepartamento (personasDepartamentos.idDepartamento);
+            pnd.nombre = personasDepartamentos.nombre;
+            pnd.apellidos = personasDepartamentos.apellidos;
+            pnd.idPersona = personasDepartamentos.idPersona;
+            pnd.telefono = personasDepartamentos.telefono;
+            pnd.direccion = personasDepartamentos.direccion;
+
             return View("PersonaModificada", pnd);
         }
     }

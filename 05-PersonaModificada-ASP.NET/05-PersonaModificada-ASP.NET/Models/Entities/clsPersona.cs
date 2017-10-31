@@ -22,6 +22,7 @@ namespace _05_PersonaModificada_ASP.Models.Entities
             this.apellidos = "Gómez";
             this.direccion = "Mi casa";
             this.telefono = "954224444";
+            this.idDepartamento = 3;
         }
 
         public clsPersona(String nombre, String apellidos, String direccion, String telefono)
@@ -31,6 +32,7 @@ namespace _05_PersonaModificada_ASP.Models.Entities
             this.direccion = direccion;
             this.telefono = telefono;
         }
+
     }
 }
 

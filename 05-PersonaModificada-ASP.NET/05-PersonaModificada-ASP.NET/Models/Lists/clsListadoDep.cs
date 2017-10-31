@@ -16,6 +16,9 @@ namespace _05_PersonaModificada_ASP.Models.Lists
             this.cargarListado();
         }
 
+        /// <summary>
+        /// Rellena el listado con departamentos.
+        /// </summary>
         public void cargarListado()
         {
             this.departamentos.Add(new clsDepartamentos (1, "Marketing"));
@@ -24,6 +27,11 @@ namespace _05_PersonaModificada_ASP.Models.Lists
             this.departamentos.Add(new clsDepartamentos (4, "Limpieza"));
         }
 
+        /// <summary>
+        /// Te da el nombre del departamento en función de su id
+        /// </summary>
+        /// <param name="idDepartamento"></param>
+        /// <returns></returns>
         public string getNombreDepartamento(int idDepartamento)
         {
             string resultado = "";
