@@ -21,15 +21,23 @@ namespace _05_PersonaModificada_ASP.NET.Views.Controllers
         [HttpPost]
         public ActionResult Edit(PersonasDepartamentos personasDepartamentos)
         {
-            clsPersonaNombreDepartamento pnd = new clsPersonaNombreDepartamento();
-            pnd.nombreDepartamento = personasDepartamentos.listado.getNombreDepartamento (personasDepartamentos.idDepartamento);
-            pnd.nombre = personasDepartamentos.nombre;
-            pnd.apellidos = personasDepartamentos.apellidos;
-            pnd.idPersona = personasDepartamentos.idPersona;
-            pnd.telefono = personasDepartamentos.telefono;
-            pnd.direccion = personasDepartamentos.direccion;
+            if (!ModelState.IsValid)
+            {
+                return View(personasDepartamentos);
+            }
 
-            return View("PersonaModificada", pnd);
+            else
+            {
+                clsPersonaNombreDepartamento pnd = new clsPersonaNombreDepartamento();
+                pnd.nombreDepartamento = personasDepartamentos.listado.getNombreDepartamento(personasDepartamentos.idDepartamento);
+                pnd.nombre = personasDepartamentos.nombre;
+                pnd.apellidos = personasDepartamentos.apellidos;
+                pnd.idPersona = personasDepartamentos.idPersona;
+                pnd.telefono = personasDepartamentos.telefono;
+                pnd.direccion = personasDepartamentos.direccion;
+
+                return View("PersonaModificada", pnd);
+            }
         }
     }
 }

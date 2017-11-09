@@ -15,6 +15,7 @@
         <form method="post" action=""/>
             <p>Nombre</p> 
             <input type="text" name="nombre" value="@Model.nombre"/><br/>
+            <p>@Html.ValidationMessageFor(model => model.nombre)</p>
             <p>Apellidos</p> 
             @Html.TextBox("apellidos", Model.apellidos)  
             <p>Direccion</p> 
@@ -23,6 +24,8 @@
             @Html.TextBoxFor(model => model.telefono)<br /><br />
             <p>Departamentos</p>
             @Html.DropDownListFor(m => m.idDepartamento, new SelectList (Model.listado.departamentos, "idDepartamento", "nombre"))
+
+            @Html.ValidationSummary()
 
             <!-- El desplegable -->
             

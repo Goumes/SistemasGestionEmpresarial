@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -8,11 +9,19 @@ namespace _06_EjercicioRecopilatorio_ASP.Models.Entities
     public class clsPersona
     {
         public int idPersona { get; set; }
+        [Required (ErrorMessage = "Campo obligatorio")]
+        [Display(Name = "Nombre")]
         public string nombre { get; set; }
+        [MaxLength(40), Required]
         public string apellido1 { get; set; }
+        [MaxLength(40), Required]
         public string apellido2 { get; set; }
+        [DataType(DataType.Date)]
         public DateTime fechaNac { get; set; }
+        [MaxLength(200), Required]
         public string direccion { get; set; }
+        [DataType(DataType.PhoneNumber)]
+        [RegularExpression(@"^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$", ErrorMessage = "Not a valid Phone number")]
         public string telefono { get; set; }
         public int idMascota { get; set; }
 
