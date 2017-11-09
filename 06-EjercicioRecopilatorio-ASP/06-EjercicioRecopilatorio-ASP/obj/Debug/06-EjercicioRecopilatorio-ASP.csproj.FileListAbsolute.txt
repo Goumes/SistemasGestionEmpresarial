@@ -26,3 +26,31 @@ C:\Users\aleja\source\repos\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilato
 C:\Users\aleja\source\repos\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\obj\Debug\06-EjercicioRecopilatorio-ASP.csproj.CoreCompileInputs.cache
 C:\Users\aleja\source\repos\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\obj\Debug\06-EjercicioRecopilatorio-ASP.dll
 C:\Users\aleja\source\repos\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\obj\Debug\06-EjercicioRecopilatorio-ASP.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\06-EjercicioRecopilatorio-ASP.dll.config
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\06-EjercicioRecopilatorio-ASP.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\06-EjercicioRecopilatorio-ASP.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\Microsoft.Web.Infrastructure.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Helpers.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Mvc.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Razor.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Webpages.Deployment.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Webpages.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Webpages.Razor.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Razor.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Webpages.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Webpages.Deployment.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Webpages.Razor.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Helpers.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\System.Web.Mvc.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\es\System.Web.Razor.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\es\System.Web.Webpages.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\es\System.Web.Helpers.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\bin\es\System.Web.Mvc.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\obj\Debug\06-EjercicioRecopilatorio-ASP.csprojResolveAssemblyReference.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\obj\Debug\06-EjercicioRecopilatorio-ASP.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\obj\Debug\06-EjercicioRecopilatorio-ASP.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\06-EjercicioRecopilatorio-ASP\06-EjercicioRecopilatorio-ASP\obj\Debug\06-EjercicioRecopilatorio-ASP.pdb
