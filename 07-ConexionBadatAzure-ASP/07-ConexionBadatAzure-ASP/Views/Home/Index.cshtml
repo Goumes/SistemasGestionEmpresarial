@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <form method="post" action="">
+            <p>Abir conexión</p><br/>
+            <input type="hidden" name="abrir" value="true"/>
+            <input type="submit" name="enviar" value="Enviar"/>
+        </form>
+
+        <p>Estado de la conexión: @ViewBag.conexionAbierta</p>
+    </div>
+</body>
+</html>
