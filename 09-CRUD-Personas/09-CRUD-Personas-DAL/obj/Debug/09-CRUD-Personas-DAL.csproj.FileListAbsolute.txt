@@ -1,0 +1,8 @@
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\bin\Debug\09-CRUD-Personas-DAL.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\bin\Debug\09-CRUD-Personas-DAL.pdb
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\bin\Debug\09-CRUD-Personas-Entidades.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\bin\Debug\09-CRUD-Personas-Entidades.pdb
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\obj\Debug\09-CRUD-Personas-DAL.csprojResolveAssemblyReference.cache
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\obj\Debug\09-CRUD-Personas-DAL.csproj.CoreCompileInputs.cache
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\obj\Debug\09-CRUD-Personas-DAL.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-DAL\obj\Debug\09-CRUD-Personas-DAL.pdb
