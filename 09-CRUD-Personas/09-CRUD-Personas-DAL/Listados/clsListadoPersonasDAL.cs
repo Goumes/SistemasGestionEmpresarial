@@ -96,6 +96,8 @@ namespace _09_CRUD_Personas_DAL.Listados
 
             return (listadoPersonas);
         }
+
+       
         #endregion
     }
 }

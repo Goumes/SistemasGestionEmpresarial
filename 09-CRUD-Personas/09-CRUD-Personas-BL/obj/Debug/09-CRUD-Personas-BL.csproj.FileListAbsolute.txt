@@ -8,3 +8,13 @@ D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas
 D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\bin\Debug\09-CRUD-Personas-Entidades.pdb
 D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\obj\Debug\09-CRUD-Personas-BL.dll
 D:\agomez\Desarrollo de Interfaces\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\obj\Debug\09-CRUD-Personas-BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\bin\Debug\09-CRUD-Personas-BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\bin\Debug\09-CRUD-Personas-BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\bin\Debug\09-CRUD-Personas-DAL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\bin\Debug\09-CRUD-Personas-Entidades.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\bin\Debug\09-CRUD-Personas-DAL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\bin\Debug\09-CRUD-Personas-Entidades.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\obj\Debug\09-CRUD-Personas-BL.csprojResolveAssemblyReference.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\obj\Debug\09-CRUD-Personas-BL.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\obj\Debug\09-CRUD-Personas-BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-BL\obj\Debug\09-CRUD-Personas-BL.pdb

@@ -8,6 +8,7 @@ namespace _09_CRUD_Personas_Entidades
 {
     public class clsPersona
     {
+        [Display(Name = "ID Persona")]
         public int idPersona { get; set; }
         [Required(ErrorMessage = "Campo obligatorio")]
         [Display(Name = "Nombre")]
@@ -17,12 +18,16 @@ namespace _09_CRUD_Personas_Entidades
         [MaxLength(40)]
         public string apellidos { get; set; }
         [DataType(DataType.Date)]
+        [Display(Name = "Fecha de nacimiento")]
         public DateTime fechaNac { get; set; }
         [MaxLength(200)]
+        [Display(Name = "Direccion")]
         public string direccion { get; set; }
+        [Display(Name = "Telefono")]
         [DataType(DataType.PhoneNumber)]
         [RegularExpression(@"^[9|6|7][0-9]{8}$", ErrorMessage = "Not a valid Phone number")]
         public string telefono { get; set; }
+        [Display(Name = "ID Departamento")]
         public int idDepartamento { get; set; }
 
         public clsPersona()
