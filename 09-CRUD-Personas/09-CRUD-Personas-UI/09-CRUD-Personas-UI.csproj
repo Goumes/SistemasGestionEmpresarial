@@ -108,6 +108,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\ViewModels\clsPersonaListadoDepartamento.cs" />
+    <Compile Include="Models\ViewModels\clsPersonaNombreDepartamento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -127,12 +129,15 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\09-CRUD-Personas-BL\09-CRUD-Personas-BL.csproj">
       <Project>{14aca5bb-4376-49af-8e37-8a7051702ee5}</Project>
       <Name>09-CRUD-Personas-BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\09-CRUD-Personas-DAL\09-CRUD-Personas-DAL.csproj">
+      <Project>{F5215AAF-7583-430B-B52C-C779EC47887B}</Project>
+      <Name>09-CRUD-Personas-DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\09-CRUD-Personas-Entidades\09-CRUD-Personas-Entidades.csproj">
       <Project>{b1754a85-189d-4d4a-8490-841e60c7e2ef}</Project>

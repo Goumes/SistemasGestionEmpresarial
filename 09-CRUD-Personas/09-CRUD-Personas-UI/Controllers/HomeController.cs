@@ -1,6 +1,8 @@
 ﻿using _09_CRUD_Personas_BL.Listados;
 using _09_CRUD_Personas_BL.Manejadoras;
+using _09_CRUD_Personas_DAL.Manejadoras;
 using _09_CRUD_Personas_Entidades;
+using _09_CRUD_Personas_UI.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,18 +18,30 @@ namespace _09_CRUD_Personas_UI.Controllers
         {
             List<clsPersona> personas;
             clsListadoPersonasBL listadoPersonasBL = new clsListadoPersonasBL();
+            personas = listadoPersonasBL.getListadoPersonasBL();
+            List<clsPersonaNombreDepartamento> listaPersonaNombreDepartamento = new List<clsPersonaNombreDepartamento> ();
+            clsGestoraDepartamentoBL gestoraDepartamentoBL = new clsGestoraDepartamentoBL();
 
-            personas = listadoPersonasBL.getListadoPersonasBL ();
+            for (int i = 0; i < personas.Count;i++)
+            {
+                listaPersonaNombreDepartamento.Add(new clsPersonaNombreDepartamento (gestoraDepartamentoBL.getDepartamentoPorId(personas[i].idDepartamento).nombre, personas[i]));
+            }
 
-            return View(personas);
+            return View(listaPersonaNombreDepartamento);
         }
 
         public ActionResult Edit(int id)
         {
             clsGestoraPersonaBL gestoraPersonaBL = new clsGestoraPersonaBL();
+            clsPersonaListadoDepartamento personaListadoDepartamento;
+            List<clsDepartamento> departamentos;
+            clsListadoDepartamentosBL listadoDepartamentosBL = new clsListadoDepartamentosBL();
+            departamentos = listadoDepartamentosBL.getListadoDepartamentosBL();
             clsPersona persona = gestoraPersonaBL.getPersonaEditar(id);
 
-            return View(persona);
+            personaListadoDepartamento = new clsPersonaListadoDepartamento(departamentos, persona);
+
+            return View(personaListadoDepartamento);
         }
 
         [HttpPost]
@@ -36,6 +50,7 @@ namespace _09_CRUD_Personas_UI.Controllers
             int i = 0;
 
             clsGestoraPersonaBL gestoraPersonaBL = new clsGestoraPersonaBL();
+            clsGestoraDepartamentoBL gestoraDepartamentoBL = new clsGestoraDepartamentoBL();
 
             if (!ModelState.IsValid)
             {

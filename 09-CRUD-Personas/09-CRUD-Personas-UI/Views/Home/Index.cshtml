@@ -1,4 +1,4 @@
-﻿@model IEnumerable<_09_CRUD_Personas_Entidades.clsPersona>
+﻿@model IEnumerable<_09_CRUD_Personas_UI.Models.ViewModels.clsPersonaNombreDepartamento>
 
 @{
     Layout = null;
@@ -18,25 +18,25 @@
     <table class="table">
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.idPersona)
+                @Html.DisplayNameFor(model => model.persona.idPersona)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.nombre)
+                @Html.DisplayNameFor(model => model.persona.nombre)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.apellidos)
+                @Html.DisplayNameFor(model => model.persona.apellidos)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.fechaNac)
+                @Html.DisplayNameFor(model => model.persona.fechaNac)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.direccion)
+                @Html.DisplayNameFor(model => model.persona.direccion)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.telefono)
+                @Html.DisplayNameFor(model => model.persona.telefono)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.idDepartamento)
+                @Html.DisplayNameFor(model => model.nombreDepartamento)
             </th>
             <th></th>
         </tr>
@@ -44,30 +44,30 @@
     @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.idPersona)
+                @Html.DisplayFor(modelItem => item.persona.idPersona)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.nombre)
+                @Html.DisplayFor(modelItem => item.persona.nombre)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.apellidos)
+                @Html.DisplayFor(modelItem => item.persona.apellidos)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.fechaNac)
+                @Html.DisplayFor(modelItem => item.persona.fechaNac)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.direccion)
+                @Html.DisplayFor(modelItem => item.persona.direccion)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.telefono)
+                @Html.DisplayFor(modelItem => item.persona.telefono)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.idDepartamento)
+                @Html.DisplayFor(modelItem => item.nombreDepartamento)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.idPersona }) |
-                @Html.ActionLink("Details", "Details", new { id = item.idPersona }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.idPersona })
+                @Html.ActionLink("Edit", "Edit", new { id = item.persona.idPersona }) |
+                @Html.ActionLink("Details", "Details", new { id = item.persona.idPersona }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.persona.idPersona })
             </td>
         </tr>
     }

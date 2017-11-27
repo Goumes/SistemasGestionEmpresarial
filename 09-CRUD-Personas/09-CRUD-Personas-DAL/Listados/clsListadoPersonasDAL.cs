@@ -81,6 +81,7 @@ namespace _09_CRUD_Personas_DAL.Listados
                         oPersona.fechaNac = (DateTime)miLector["fechaNac"];
                         oPersona.direccion = (string)miLector["direccion"];
                         oPersona.telefono = (string)miLector["telefono"];
+                        oPersona.idDepartamento = (int)miLector["idDepartamento"];
                         listadoPersonas.Add(oPersona);
                     }
                 }
