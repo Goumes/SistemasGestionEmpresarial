@@ -37,5 +37,15 @@ namespace _09_CRUD_Personas_BL.Manejadoras
 
             return resultado;
         }
+
+        public int getAddPersona (clsPersona persona)
+        {
+            int resultado = 0;
+
+            clsGestoraPersonaDAL gestoraPersonaDAL = new clsGestoraPersonaDAL();
+            resultado = gestoraPersonaDAL.addPersonaDAL(persona);
+
+            return resultado;
+        }
     }
 }

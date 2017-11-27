@@ -1,0 +1,5 @@
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-Entidades\bin\Release\09-CRUD-Personas-Entidades.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-Entidades\bin\Release\09-CRUD-Personas-Entidades.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-Entidades\obj\Release\09-CRUD-Personas-Entidades.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-Entidades\obj\Release\09-CRUD-Personas-Entidades.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\09-CRUD-Personas\09-CRUD-Personas-Entidades\obj\Release\09-CRUD-Personas-Entidades.pdb

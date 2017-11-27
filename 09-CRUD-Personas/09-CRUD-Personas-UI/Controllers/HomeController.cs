@@ -50,6 +50,14 @@ namespace _09_CRUD_Personas_UI.Controllers
             return RedirectToAction("Index");
         }
 
+        public ActionResult Details (int id)
+        {
+            clsGestoraPersonaBL gestoraPersonaBL = new clsGestoraPersonaBL();
+            clsPersona persona = gestoraPersonaBL.getPersonaEditar(id);
+
+            return View(persona);
+        }
+
         public ActionResult Delete(int id)
         {
             clsGestoraPersonaBL gestoraPersonaBL = new clsGestoraPersonaBL();
@@ -82,6 +90,40 @@ namespace _09_CRUD_Personas_UI.Controllers
                     return View("PgnError");
                 }
                 
+            }
+
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult Create ()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Create (clsPersona clsPersona)
+        {
+            int i = 0;
+
+            clsGestoraPersonaBL gestoraPersonaBL = new clsGestoraPersonaBL();
+
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+
+            else
+            {
+                try
+                {
+                    i = gestoraPersonaBL.getAddPersona(clsPersona);
+                }
+                catch (Exception)
+                {
+
+                    return View("PgnError");
+                }
+
             }
 
             return RedirectToAction("Index");

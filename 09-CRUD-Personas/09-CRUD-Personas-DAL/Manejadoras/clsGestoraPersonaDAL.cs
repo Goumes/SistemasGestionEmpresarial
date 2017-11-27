@@ -151,6 +151,37 @@ namespace _09_CRUD_Personas_DAL.Manejadoras
 
             return resultado;
         }
+
+        public int addPersonaDAL(clsPersona persona)
+        {
+            int resultado = 0;
+
+            SqlConnection conexion;
+            SqlCommand miComando = new SqlCommand();
+            clsMyConnection miConexion = new clsMyConnection(); ;
+            miComando.CommandText = "INSERT INTO personas (nombre, apellidos, fechaNac, direccion, telefono) VALUES (@nombre, @apellidos, @fechaNac, @direccion, @telefono)";
+            miComando.Parameters.Add("@nombre", System.Data.SqlDbType.VarChar).Value = persona.nombre;
+            miComando.Parameters.Add("@apellidos", System.Data.SqlDbType.VarChar).Value = persona.apellidos;
+            miComando.Parameters.Add("@fechaNac", System.Data.SqlDbType.Date).Value = persona.fechaNac;
+            miComando.Parameters.Add("@direccion", System.Data.SqlDbType.VarChar).Value = persona.direccion;
+            miComando.Parameters.Add("@telefono", System.Data.SqlDbType.VarChar).Value = persona.telefono;
+
+
+            try
+            {
+                conexion = miConexion.getConnection();
+                miComando.Connection = conexion;
+                resultado = miComando.ExecuteNonQuery();
+            }
+
+            catch (Exception exSql)
+            {
+                throw exSql;
+            }
+
+            return resultado;
+        }
+
         #endregion
     }
 }
