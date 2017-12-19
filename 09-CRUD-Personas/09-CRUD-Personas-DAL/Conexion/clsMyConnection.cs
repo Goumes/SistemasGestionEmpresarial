@@ -35,12 +35,13 @@ namespace _09_CRUD_Personas_DAL.Conexion
         public clsMyConnection()
         {
             // this.server = "(local)";
-            this.server = "personasbdserver.database.windows.net";
+            //this.server = "personasbdserver.database.windows.net";
+            this.server = "localhost";
 
             this.dataBase = "PersonasDB";
-            this.user = "agomez";
-            //this.pass = "123";
-            this.pass = "Password123";
+            this.user = "prueba";
+            this.pass = "123";
+            //this.pass = "Password123";
 
         }
         //Con parámetros por si quisiera cambiar las conexiones
