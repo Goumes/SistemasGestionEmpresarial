@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<maracas>
+  
+  <maraca>
+    <nombre>Maracator 3000</nombre>
+    <precio>11.99</precio>
+  </maraca>
+
+  <maraca>
+    <nombre>Maracuyá</nombre>
+    <precio>19.99</precio>
+  </maraca>
+
+  <maraca>
+    <nombre>Maracaná</nombre>
+    <precio>16.99</precio>
+  </maraca>
+
+  <maraca>
+    <nombre>Maraquilla</nombre>
+    <precio>29.99</precio>
+  </maraca>
+  
+</maracas>
