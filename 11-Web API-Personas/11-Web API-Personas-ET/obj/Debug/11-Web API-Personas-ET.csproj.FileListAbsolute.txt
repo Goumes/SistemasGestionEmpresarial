@@ -1,0 +1,6 @@
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\11-Web API-Personas\11-Web API-Personas-ET\bin\Debug\11-Web API-Personas-ET.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\11-Web API-Personas\11-Web API-Personas-ET\bin\Debug\11-Web API-Personas-ET.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\11-Web API-Personas\11-Web API-Personas-ET\obj\Debug\11-Web API-Personas-ET.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\11-Web API-Personas\11-Web API-Personas-ET\obj\Debug\11-Web API-Personas-ET.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\11-Web API-Personas\11-Web API-Personas-ET\obj\Debug\11-Web API-Personas-ET.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\11-Web API-Personas\11-Web API-Personas-ET\obj\Debug\11-Web API-Personas-ET.pdb
