@@ -1,0 +1,67 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/contact.css" rel="stylesheet" />
+    <script src="~/Scripts/ModelosJavaScript.js"></script>
+    <script src="~/Scripts/Ajax.js"></script>
+
+
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Cors CRos crorssh</h1>
+    </div>
+    <div id="listadoPersonas">
+
+    </div>
+
+    <input type="button" id="btnListar" value="Listar" />
+
+    <div id="divLista"></div>
+
+
+    <div class="main-container">
+        <div class="form-container">
+            <h1>Personas</h1>
+            <div class="form">
+                <input type="text" id="name" placeholder="Nombre" required />
+                <input type="text" id="apellido" placeholder="Apellidos" required />
+                <p>Fecha de Nacimiento: </p>
+                <input type="date" id="fechaNac" placeholder="Fecha de Nacimiento" required /><br />
+                <input type="text" id="telefono" placeholder="Teléfono" required />
+                <input type="text" id="direccion" placeholder="Dirección" required />
+                <input type="button" value="Save" id="btnSave" />
+                <input type="button" value="Refresh Form" id="btnRefresh" />
+            </div>
+        </div>
+        <div class="table-container">
+            <table id="table1">
+                <thead id="table-head">
+                    <tr>
+                        <th>S.N.</th>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Fecha de Nacimiento</th>
+                        <th>Teléfono</th>
+                        <th>Dirección</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+
+    <script src="~/Scripts/contactTable.js"></script>
+
+</body>
+</html>

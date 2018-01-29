@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>peashepe</title>
+    <script src="../Js/JavaScript.js"></script>
+</head>
+<body>
+
+    <form action="" method="post">
+        <p>
+            <div>Nombre:</div>
+            <input type="text" id="txtNombre"/>
+            <div id="lblErrorNombre"></div>
+            <br/>
+            <div>Apellidos:</div>
+            <input type="text" id="txtApellidos"/>
+            <div id="lblErrorApellidos"></div>
+            <br />
+            <div>Edad:</div>
+            <input type="text" id="txtEdad"/>
+            <div id="lblErrorEdad"></div>
+
+            <br/>
+
+            <input type="button" id="btnEnviar" value="Enviar"/>
+            <input type="button" id="btnSaludar" value="Saludar a lo triste" onclick="saludo(/*txtNombre.value*/)"/>  <!-- Tambien se puede pasar por parametros el txtNombre.value -->
+        </p>
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+        <input type="button" id="btnShavale" value="Saludar a lo shavale" onclick="shavalada()" />
+    </form>
+
+</body>
+</html>

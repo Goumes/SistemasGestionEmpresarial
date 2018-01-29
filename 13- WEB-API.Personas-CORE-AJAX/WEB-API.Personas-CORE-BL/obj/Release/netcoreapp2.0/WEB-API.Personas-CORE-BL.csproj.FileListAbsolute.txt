@@ -1,0 +1,39 @@
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.deps.json
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-DAL.dll
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.dll
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-DAL.pdb
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.pdb
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.csprojResolveAssemblyReference.cache
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.csproj.CoreCompileInputs.cache
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfoInputs.cache
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfo.cs
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+c:\users\fjcarmona\source\repos\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.deps.json
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-DAL.dll
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.dll
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-DAL.pdb
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.pdb
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.csprojResolveAssemblyReference.cache
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.csproj.CoreCompileInputs.cache
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfoInputs.cache
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfo.cs
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+C:\Users\fjcarmona\Desktop\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.deps.json
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-DAL.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-DAL.pdb
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\bin\Release\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.pdb
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.csprojResolveAssemblyReference.cache
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.csproj.CoreCompileInputs.cache
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfoInputs.cache
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfo.cs
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+D:\agomez\Desarrollo de Interfaces\Repositorio\WEB-API.Personas-CORE-UI\WEB-API.Personas-CORE-BL\obj\Release\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
