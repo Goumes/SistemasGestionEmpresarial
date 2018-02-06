@@ -15,9 +15,9 @@ function pintaTabla() {
             if (xml.readyState == 4 && xml.status == 200) {
                 document.getElementById("divLista").innerHTML = xml.responseText;
                 var arrayPersonas = Json.parse(xml.responseText);
-                
             }
         }
     }
+
     xml.send();
 }
