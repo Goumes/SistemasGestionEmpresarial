@@ -33,6 +33,8 @@ namespace _20_API_ASP_Core_UI
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute(); //QUE NO SE TE VUELVA A OLVIDAR PONER ESTAS DOS LINEAS, CAZURRO.
 
             app.UseMvc();
         }

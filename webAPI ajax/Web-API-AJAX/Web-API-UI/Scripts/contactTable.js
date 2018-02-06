@@ -253,12 +253,3 @@
     }
 
 })();
-
-
-
-/*
-function inicia() {
-    document.getElementById("btnListar").addEventListener("click", pintaTabla, false);
-
-}*/
-

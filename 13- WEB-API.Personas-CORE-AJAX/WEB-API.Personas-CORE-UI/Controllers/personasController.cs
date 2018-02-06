@@ -12,24 +12,24 @@ namespace WEB_API.Personas_CORE_UI.Controllers
     [Route("api/[controller]")]
     public class personasController : Controller
     {
+        clsGestoraPersonaBL gestoraPersonaBL = new clsGestoraPersonaBL();
+        clsListadoPersonasBL listadoPersonasBL = new clsListadoPersonasBL();
         // GET api/personas
         [HttpGet]
-        public List<clsPersona> Get()
+        public IEnumerable<clsPersona> Get()
         {
 
-			clsListadoPersonasBL listadoBL = new clsListadoPersonasBL();
-			List<clsPersona> listado = listadoBL.getListadoPersonasBL();
-			return (listado);
-		}
+            IEnumerable<clsPersona> personas = listadoPersonasBL.getListadoPersonasBL();
+            return personas;
+        }
 
 		// GET api/personas/5
 		[HttpGet("{id}")]
         public clsPersona Get(int id)
         {
-			clsListadoPersonasBL personaID = new clsListadoPersonasBL();
-			clsPersona persona = personaID.buscarPersonaPorId(id);
-			return (persona);
-		}
+            clsPersona persona = gestoraPersonaBL.getPersonaPorId(id);
+            return persona;
+        }
 
 		// POST api/personas
 		[HttpPost]
