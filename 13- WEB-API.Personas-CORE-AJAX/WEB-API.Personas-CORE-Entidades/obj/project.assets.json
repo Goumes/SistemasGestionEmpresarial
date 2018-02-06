@@ -664,7 +664,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\agomez\\.nuget\\packages\\": {},
+    "C:\\Users\\aleja\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,18 +674,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj",
       "projectName": "WEB-API.Personas-CORE-Entidades",
-      "projectPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj",
-      "packagesPath": "C:\\Users\\agomez\\.nuget\\packages\\",
-      "outputPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\obj\\",
+      "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj",
+      "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\agomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -710,7 +713,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

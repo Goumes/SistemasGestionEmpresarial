@@ -50,3 +50,16 @@ D:\agomez\Sistemas de gestión empresarial\Repositorio\13- WEB-API.Personas-CORE
 D:\agomez\Sistemas de gestión empresarial\Repositorio\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfo.cs
 D:\agomez\Sistemas de gestión empresarial\Repositorio\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
 D:\agomez\Sistemas de gestión empresarial\Repositorio\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\bin\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.deps.json
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\bin\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\bin\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\bin\Debug\netcoreapp2.0\WEB-API.Personas-CORE-DAL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\bin\Debug\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\bin\Debug\netcoreapp2.0\WEB-API.Personas-CORE-DAL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\bin\Debug\netcoreapp2.0\WEB-API.Personas-CORE-Entidades.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfoInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.AssemblyInfo.cs
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\13- WEB-API.Personas-CORE-AJAX\WEB-API.Personas-CORE-BL\obj\Debug\netcoreapp2.0\WEB-API.Personas-CORE-BL.pdb

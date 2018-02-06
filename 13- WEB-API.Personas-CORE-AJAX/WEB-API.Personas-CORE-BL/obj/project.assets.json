@@ -1128,7 +1128,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\agomez\\.nuget\\packages\\": {},
+    "C:\\Users\\aleja\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -1137,18 +1138,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-BL\\WEB-API.Personas-CORE-BL.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-BL\\WEB-API.Personas-CORE-BL.csproj",
       "projectName": "WEB-API.Personas-CORE-BL",
-      "projectPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-BL\\WEB-API.Personas-CORE-BL.csproj",
-      "packagesPath": "C:\\Users\\agomez\\.nuget\\packages\\",
-      "outputPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-BL\\obj\\",
+      "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-BL\\WEB-API.Personas-CORE-BL.csproj",
+      "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\agomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -1160,11 +1163,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-DAL\\WEB-API.Personas-CORE-DAL.csproj": {
-              "projectPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-DAL\\WEB-API.Personas-CORE-DAL.csproj"
+            "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj": {
+              "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj"
             },
-            "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj": {
-              "projectPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-Entidades\\WEB-API.Personas-CORE-Entidades.csproj"
+            "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-DAL\\WEB-API.Personas-CORE-DAL.csproj": {
+              "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\13- WEB-API.Personas-CORE-AJAX\\WEB-API.Personas-CORE-DAL\\WEB-API.Personas-CORE-DAL.csproj"
             }
           }
         }
@@ -1181,7 +1184,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
