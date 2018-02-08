@@ -4,17 +4,22 @@
     'use strict'; //No se que es esto
 
     var arrayPersonas;
+    var idPersonaEditar;
     var xml = new XMLHttpRequest();
 
     var nameField = document.getElementById('name'),
         apellidoField = document.getElementById('apellido'),
-        fechaNacField = document.getElementById('fechaNac'),
+        fechaNacField = new Date(document.getElementById('fechaNac')),
         telefonoField = document.getElementById('telefono'),
         direccionField = document.getElementById('direccion'),
         saveButton = document.getElementById('btnSave');
 
+    // fecha = fecha.
+    //   fechaNacField = document.getElementById('fechaNac')
+
     // Main function
     var init = function () {
+        //updateTable();
         pintaTabla();
 
         var btnSave = document.getElementById('btnSave'),
@@ -37,9 +42,8 @@
     init(); //Intialize the table
 
     // Set form for data edit
-    var updateForm = function (id) {
-        console.log(userData[id].name);
-
+    var updateForm = function (persona) {
+        //console.log(userData[id].name);
 
         nameField.value = persona.name;
         apellidoField.value = persona.apellidos;
@@ -48,6 +52,7 @@
         direccionField.value = persona.direccion;
 
         saveButton.value = 'Update';
+        //saveButton.setAttribute('data-update', id);
     }
 
     // Save new data
@@ -92,14 +97,14 @@
     }
 
     // Update data
-    var updateData = function (id) {
-        var upName = document.getElementById('name').value,
-            upPhone = document.getElementById('phone').value;
+	/*var updateData = function(id) {
+		var upName = document.getElementById('name').value,
+			upPhone = document.getElementById('phone').value;
 
-        userData[id].name = upName;
+		userData[id].name = upName;
         userData[id].phone = upPhone;
         pintaTabla();
-    }
+	}*/
 
     // Reset the form
     var refreshForm = function () {
@@ -120,6 +125,7 @@
 
 
     function pintaTabla() {
+
         //document.getElementById("divLista").innerHTML = "cargando...";
         if (xml) {
             xml.open('GET', '../api/personas');
@@ -136,6 +142,7 @@
                     while (dataTable.firstChild) {
                         dataTable.removeChild(dataTable.firstChild);
                     }
+
                     dataTable.appendChild(tableHead);
 
                     for (var i = 0; i < arrayPersonas.length; i++) {
@@ -153,13 +160,21 @@
                             btnEdit = document.createElement('input');
 
                         btnDelete.setAttribute('type', 'button');
-                        btnDelete.setAttribute('value', 'Delete');
+                        //btnDelete.setAttribute('value', 'Delete');
                         btnDelete.setAttribute('class', 'btnDelete');
                         btnDelete.setAttribute('id', i);
+                        btnDelete.setAttribute('value', "DELETE");
+                        btnDelete.setAttribute('name', arrayPersonas[i].idPersona);
 
                         btnEdit.setAttribute('type', 'button');
                         btnEdit.setAttribute('value', 'Edit');
                         btnEdit.setAttribute('id', i);
+                        btnEdit.setAttribute('data-id', arrayPersonas[i].idPersona)
+                        btnEdit.setAttribute('data-nombre', arrayPersonas[i].nombre);
+                        btnEdit.setAttribute('data-apellidos', arrayPersonas[i].apellidos);
+                        btnEdit.setAttribute('data-fechaNac', arrayPersonas[i].fechaNac);
+                        btnEdit.setAttribute('data-telefono', arrayPersonas[i].telefono);
+                        btnEdit.setAttribute('data-direccion', arrayPersonas[i].direccion);
 
                         tr.appendChild(td0);
                         tr.appendChild(td1);
@@ -181,11 +196,10 @@
                         td7.appendChild(btnEdit);
                         td8.appendChild(btnDelete);
 
-
+                        //AÑADE A CADA BOTON ELIMINAR UN LISTENER PARA EL METODO
                         btnDelete.addEventListener("click", deletePersona, false);
 
-                        btnEdit.addEventListener('click', editPersona, false);
-
+                        btnEdit.addEventListener("click", editPersona, false);
 
                         tbody.appendChild(tr);
                     }
@@ -237,4 +251,5 @@
         });
         updateForm(personaEditar);
     }
+
 })();

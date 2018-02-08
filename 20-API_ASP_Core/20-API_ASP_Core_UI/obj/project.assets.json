@@ -13173,8 +13173,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aleja\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\agomez\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13183,20 +13182,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\20-API_ASP_Core\\20-API_ASP_Core_UI\\20-API_ASP_Core_UI.csproj",
+      "projectUniqueName": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\20-API_ASP_Core\\20-API_ASP_Core_UI\\20-API_ASP_Core_UI.csproj",
       "projectName": "20-API_ASP_Core_UI",
-      "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\20-API_ASP_Core\\20-API_ASP_Core_UI\\20-API_ASP_Core_UI.csproj",
-      "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\20-API_ASP_Core\\20-API_ASP_Core_UI\\obj\\",
+      "projectPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\20-API_ASP_Core\\20-API_ASP_Core_UI\\20-API_ASP_Core_UI.csproj",
+      "packagesPath": "C:\\Users\\agomez\\.nuget\\packages\\",
+      "outputPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\20-API_ASP_Core\\20-API_ASP_Core_UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\agomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -13208,11 +13205,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\20-API_ASP_Core\\20-API_ASP_Core_ET\\20-API_ASP_Core_ET.csproj": {
-              "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\20-API_ASP_Core\\20-API_ASP_Core_ET\\20-API_ASP_Core_ET.csproj"
+            "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\20-API_ASP_Core\\20-API_ASP_Core_ET\\20-API_ASP_Core_ET.csproj": {
+              "projectPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\20-API_ASP_Core\\20-API_ASP_Core_ET\\20-API_ASP_Core_ET.csproj"
             },
-            "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\20-API_ASP_Core\\20-API_ASP_Core_BL\\20-API_ASP_Core_BL.csproj": {
-              "projectPath": "C:\\Users\\aleja\\Documents\\GitHub\\SistemasGestionEmpresarial\\20-API_ASP_Core\\20-API_ASP_Core_BL\\20-API_ASP_Core_BL.csproj"
+            "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\20-API_ASP_Core\\20-API_ASP_Core_BL\\20-API_ASP_Core_BL.csproj": {
+              "projectPath": "D:\\agomez\\Sistemas de gestión empresarial\\Repositorio\\20-API_ASP_Core\\20-API_ASP_Core_BL\\20-API_ASP_Core_BL.csproj"
             }
           }
         }
@@ -13226,18 +13223,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.All": {
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
-            "version": "[2.0.3, )"
+            "version": "2.0.1"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           },
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "[2.0.1, )"
+            "version": "2.0.3"
           }
         },
         "imports": [
