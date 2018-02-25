@@ -21,14 +21,14 @@ namespace Web_API_DAL.Conexion
         {
 
             // this.server = "(local)";
-            this.server = "mispersonas.database.windows.net";
+            this.server = "personasbdserver.database.windows.net";
             //this.server = "localhost";
 
             this.dataBase = "PersonasDB";
-            this.user = "lgutierrez";
+            this.user = "agomez";
             //this.user = "prueba";
             //this.pass = "123";
-            this.pass = "Personas_DB";
+            this.pass = "Password123";
             //this.pass = "123";
 
         }

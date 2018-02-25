@@ -8,8 +8,8 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <link href="~/Content/contact.css" rel="stylesheet" />
     <script src="~/Scripts/ModelosJavaScript.js"></script>
+    <link href="~/Content/contact.css" rel="stylesheet" />
     <script src="~/Scripts/Ajax.js"></script>
 
 
@@ -24,9 +24,14 @@
     </div>
 
     <input type="button" id="btnListar" value="Listar" />
+    <input type="button" id="btnPersona" value="jipi" />
+    <input type="button" id="btnListado" value="jipis" />
 
-    <div id="divLista"></div>
+    <div id="divLista">
 
+    </div>
+    <div id="divPersona"></div>
+    <div id="divListado"></div>
 
     <div class="main-container">
         <div class="form-container">
@@ -60,8 +65,9 @@
             </table>
         </div>
     </div>
+    <script src="~/Scripts/contactTable.js"></script><!--Si lo pongo en la cabecera me da problemas-->
+    <script src="~/Scripts/smoothscroll.js"></script><!--Si lo pongo en la cabecera me da problemas-->
 
-    <script src="~/Scripts/contactTable.js"></script>
 
 </body>
 </html>

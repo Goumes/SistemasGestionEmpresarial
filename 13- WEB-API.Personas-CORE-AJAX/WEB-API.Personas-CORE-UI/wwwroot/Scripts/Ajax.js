@@ -2,7 +2,7 @@
 
 function inicia() {
     document.getElementById("btnListar").addEventListener("click", pintaTabla, false);
-
+    
 }
 
 function pintaTabla() {
@@ -11,11 +11,11 @@ function pintaTabla() {
     if (xml) {
         xml.open('GET', '../api/personas');
         xml.onreadystatechange = function () {
-
+            
             if (xml.readyState == 4 && xml.status == 200) {
                 document.getElementById("divLista").innerHTML = xml.responseText;
                 var arrayPersonas = Json.parse(xml.responseText);
-
+                
             }
         }
     }

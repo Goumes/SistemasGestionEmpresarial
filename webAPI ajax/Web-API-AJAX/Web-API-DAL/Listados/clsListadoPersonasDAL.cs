@@ -41,10 +41,10 @@ namespace Web_API_DAL.Listados
                     while (miLector.Read())
                     {
                         oPersona = new clsPersona();
-                        oPersona.idPersona = (int)miLector["id"];
+                        oPersona.idPersona = (int)miLector["IDPersona"];
                         oPersona.nombre = (string)miLector["nombre"];
                         oPersona.apellidos = (string)miLector["apellidos"];
-                        oPersona.fechaNac = (DateTime)miLector["nacimiento"];
+                        oPersona.fechaNac = (DateTime)miLector["fechaNac"];
                         oPersona.direccion = (string)miLector["direccion"];
                         oPersona.telefono = (string)miLector["telefono"];
                         personas.Add(oPersona);
@@ -84,17 +84,17 @@ namespace Web_API_DAL.Listados
                 param.ParameterName = "@id";
                 param.SqlDbType = System.Data.SqlDbType.Int;
                 param.Value = id;
-                miComando.CommandText = "SELECT * FROM personas WHERE id = " + id;
+                miComando.CommandText = "SELECT * FROM personas WHERE IDPersona = " + id;
                 miComando.Connection = miConexion;
                 miLector = miComando.ExecuteReader();
                 //Si hay lineas en el lector
                 if (miLector.HasRows)
                 {
                     miLector.Read();
-                    oPersona.idPersona = (int)miLector["id"];
+                    oPersona.idPersona = (int)miLector["IDPersona"];
                     oPersona.nombre = (string)miLector["nombre"];
                     oPersona.apellidos = (string)miLector["apellidos"];
-                    oPersona.fechaNac = (DateTime)miLector["nacimiento"];
+                    oPersona.fechaNac = (DateTime)miLector["fechaNac"];
                     oPersona.direccion = (string)miLector["direccion"];
                     oPersona.telefono = (string)miLector["telefono"];
                 }
@@ -123,7 +123,7 @@ namespace Web_API_DAL.Listados
 
                 SqlCommand comando = new SqlCommand();
 
-                comando.CommandText = "UPDATE personas SET nombre=@nombre, apellidos=@apellidos, nacimiento=@fechaNac, direccion=@direccion, telefono=@telefono WHERE id=@id";
+                comando.CommandText = "UPDATE personas SET nombre=@nombre, apellidos=@apellidos, fechaNac=@fechaNac, direccion=@direccion, telefono=@telefono WHERE IDPersona=@id";
                 comando.Parameters.Add("@id", System.Data.SqlDbType.Int).Value = persona.idPersona;
                 comando.Parameters.Add("@nombre", System.Data.SqlDbType.VarChar).Value = persona.nombre;
                 comando.Parameters.Add("@apellidos", System.Data.SqlDbType.VarChar).Value = persona.apellidos;
@@ -159,7 +159,7 @@ namespace Web_API_DAL.Listados
 
                 SqlCommand comando = new SqlCommand();
 
-                comando.CommandText = "DELETE FROM personas WHERE id=@id";
+                comando.CommandText = "DELETE FROM personas WHERE IDPersona=@id";
                 comando.Parameters.Add("@id", System.Data.SqlDbType.Int).Value = id;
 
 
@@ -190,7 +190,7 @@ namespace Web_API_DAL.Listados
                 SqlConnection conexion = miconexion.getConnection();
                 SqlCommand comando = new SqlCommand();
 
-                comando.CommandText = "INSERT INTO personas (nombre,apellidos,nacimiento,direccion,telefono) VALUES (@nombre,@apellidos,@fechaNac,@direccion,@telefono)";
+                comando.CommandText = "INSERT INTO personas (nombre,apellidos,fechaNac,direccion,telefono) VALUES (@nombre,@apellidos,@fechaNac,@direccion,@telefono)";
                 //comando.Parameters.Add("@id", System.Data.SqlDbType.Int).Value = persona.idPersona;
                 comando.Parameters.Add("@nombre", System.Data.SqlDbType.VarChar).Value = persona.nombre;
                 comando.Parameters.Add("@apellidos", System.Data.SqlDbType.VarChar).Value = persona.apellidos;

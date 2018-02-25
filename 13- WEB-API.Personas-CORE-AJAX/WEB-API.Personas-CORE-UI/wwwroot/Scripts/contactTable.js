@@ -1,31 +1,36 @@
-ï»¿//window.addEventListener("load", init());
+//window.addEventListener("load", init());
 
-(function () {
-    'use strict'; //No se que es esto
+(function() {
+	'use strict'; //No se que es esto
 
     var arrayPersonas;
+    var idPersonaEditar;
     var xml = new XMLHttpRequest();
 
     var nameField = document.getElementById('name'),
         apellidoField = document.getElementById('apellido'),
-        fechaNacField = document.getElementById('fechaNac'),
+        fechaNacField = new Date(document.getElementById('fechaNac')),       
         telefonoField = document.getElementById('telefono'),
         direccionField = document.getElementById('direccion'),
         saveButton = document.getElementById('btnSave');
 
+   // fecha = fecha.
+     //   fechaNacField = document.getElementById('fechaNac')
+
     // Main function
     var init = function () {
+        //updateTable();
         pintaTabla();
 
         var btnSave = document.getElementById('btnSave'),
             btnRefresh = document.getElementById('btnRefresh');
 
         btnSave.onclick = function () {
-            // if (btnSave.getAttribute('data-update')) {
-            //     updateData(btnSave.getAttribute('data-update'));
+           // if (btnSave.getAttribute('data-update')) {
+           //     updateData(btnSave.getAttribute('data-update'));
             // } else {
             saveData(btnSave.getAttribute('data-id'));
-            // }
+           // }
             refreshForm();
         };
 
@@ -36,21 +41,21 @@
 
     init(); //Intialize the table
 
-    // Set form for data edit
-    var updateForm = function (id) {
-        console.log(userData[id].name);
-
-
+	// Set form for data edit
+	var updateForm = function(persona) {
+		//console.log(userData[id].name);
+        
         nameField.value = persona.name;
         apellidoField.value = persona.apellidos;
         fechaNacField.value = persona.fechaNac;
         telefonoField.value = persona.telefono;
         direccionField.value = persona.direccion;
+		
+		saveButton.value = 'Update';
+		//saveButton.setAttribute('data-update', id);
+	}
 
-        saveButton.value = 'Update';
-    }
-
-    // Save new data
+	// Save new data
     var saveData = function () {
         var personaNueva = new Persona(1, nameField, apellidoField, fechaNacField, telefonoField, direccionField);
         if (saveButton.value == 'Update') {
@@ -86,26 +91,26 @@
             xml.send(JSON.stringify({ idpersona: 1, fechaNac: fechaNacField.value, nombre: nameField.value, apellidos: apellidoField.value, direccion: direccionField.value, telefono: telefonoField.value }));
         }
         //var query = 'fechaNac=' + personaNueva.fechaNac + '&nombre=' + personaNueva.nombre + '&apellidos=' + personaNueva.apellidos + '&telefono=' + personaNueva.telefono + '&direccion=' + personaNueva.direccion;
-
-
+        
+        
         //xml.send(JSON.stringify({ idpersona: 1, fechaNac: 'aa', nombre: cono, apellidos: 'asdas', direccion: 'asdas', telefono: 'asdasd' }));
-    }
+	}
 
-    // Update data
-    var updateData = function (id) {
-        var upName = document.getElementById('name').value,
-            upPhone = document.getElementById('phone').value;
+	// Update data
+	/*var updateData = function(id) {
+		var upName = document.getElementById('name').value,
+			upPhone = document.getElementById('phone').value;
 
-        userData[id].name = upName;
+		userData[id].name = upName;
         userData[id].phone = upPhone;
         pintaTabla();
-    }
+	}*/
 
-    // Reset the form
-    var refreshForm = function () {
-        var nameField = document.getElementById('name'),
-            phoneField = document.getElementById('phone'),
-            saveButton = document.getElementById('btnSave');
+	// Reset the form
+	var refreshForm = function() {
+		var nameField = document.getElementById('name'),
+			phoneField = document.getElementById('phone'),
+			saveButton = document.getElementById('btnSave');
 
         nameField.value = '';
         telefonoField.value = '';
@@ -113,13 +118,14 @@
         direccionField.value = '';
 
         //No se que hacen estas dos lineas
-        saveButton.value = 'Save';
-        saveButton.removeAttribute('data-update');
-    }
+		saveButton.value = 'Save'; 
+		saveButton.removeAttribute('data-update');
+	}
 
-
+	
 
     function pintaTabla() {
+
         //document.getElementById("divLista").innerHTML = "cargando...";
         if (xml) {
             xml.open('GET', '../api/personas');
@@ -136,6 +142,7 @@
                     while (dataTable.firstChild) {
                         dataTable.removeChild(dataTable.firstChild);
                     }
+
                     dataTable.appendChild(tableHead);
 
                     for (var i = 0; i < arrayPersonas.length; i++) {
@@ -153,13 +160,21 @@
                             btnEdit = document.createElement('input');
 
                         btnDelete.setAttribute('type', 'button');
-                        btnDelete.setAttribute('value', 'Delete');
+                        //btnDelete.setAttribute('value', 'Delete');
                         btnDelete.setAttribute('class', 'btnDelete');
                         btnDelete.setAttribute('id', i);
+                        btnDelete.setAttribute('value', "DELETE");
+                        btnDelete.setAttribute('name', arrayPersonas[i].idPersona);
 
                         btnEdit.setAttribute('type', 'button');
                         btnEdit.setAttribute('value', 'Edit');
                         btnEdit.setAttribute('id', i);
+                        btnEdit.setAttribute('data-id', arrayPersonas[i].idPersona)
+                        btnEdit.setAttribute('data-nombre', arrayPersonas[i].nombre);
+                        btnEdit.setAttribute('data-apellidos', arrayPersonas[i].apellidos);
+                        btnEdit.setAttribute('data-fechaNac', arrayPersonas[i].fechaNac);
+                        btnEdit.setAttribute('data-telefono', arrayPersonas[i].telefono);
+                        btnEdit.setAttribute('data-direccion', arrayPersonas[i].direccion);
 
                         tr.appendChild(td0);
                         tr.appendChild(td1);
@@ -181,11 +196,10 @@
                         td7.appendChild(btnEdit);
                         td8.appendChild(btnDelete);
 
+                        //AÑADE A CADA BOTON ELIMINAR UN LISTENER PARA EL METODO
+                        btnDelete.addEventListener("click", deletePersona, false); 
 
-                        btnDelete.addEventListener("click", deletePersona, false);
-
-                        btnEdit.addEventListener('click', editPersona, false);
-
+                        btnEdit.addEventListener("click", editPersona, false);
 
                         tbody.appendChild(tr);
                     }
@@ -214,7 +228,7 @@
             }
             xml.send();
 
-
+           
         }
     };
 
@@ -228,7 +242,7 @@
         var telefono = this.getAttribute("data-telefono");
         var direccion = this.getAttribute("data-direccion");
 
-        var personaEditar = new Persona(idPersonaEditar, nombre, apellidos, fechaNac, telefono, direccion);
+        var personaEditar = new Persona(idPersonaEditar,nombre, apellidos, fechaNac, telefono, direccion);
 
         window.scrollTo({
             top: 0,
@@ -237,4 +251,5 @@
         });
         updateForm(personaEditar);
     }
+
 })();
