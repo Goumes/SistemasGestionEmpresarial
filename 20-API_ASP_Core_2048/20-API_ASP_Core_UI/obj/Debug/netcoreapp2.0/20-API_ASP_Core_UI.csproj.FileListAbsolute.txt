@@ -1,0 +1,34 @@
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.deps.json
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.runtimeconfig.json
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.runtimeconfig.dev.json
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_BL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_DAL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_ET.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_BL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_ET.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_DAL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.AssemblyInfoInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.AssemblyInfo.cs
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.deps.json
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.runtimeconfig.json
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.runtimeconfig.dev.json
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_UI.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_DAL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_ET.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_ET.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\bin\Debug\netcoreapp2.0\20-API_ASP_Core_DAL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.csprojResolveAssemblyReference.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.AssemblyInfoInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.AssemblyInfo.cs
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_UI\obj\Debug\netcoreapp2.0\20-API_ASP_Core_UI.pdb

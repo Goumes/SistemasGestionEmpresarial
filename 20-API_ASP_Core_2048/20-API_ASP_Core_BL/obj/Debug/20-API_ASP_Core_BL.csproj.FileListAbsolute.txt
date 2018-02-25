@@ -1,0 +1,20 @@
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_BL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_BL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_DAL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_ET.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_DAL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_ET.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_DAL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_ET.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_DAL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\bin\Debug\20-API_ASP_Core_ET.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.csprojResolveAssemblyReference.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\20-API_ASP_Core\20-API_ASP_Core_BL\obj\Debug\20-API_ASP_Core_BL.pdb
