@@ -10,3 +10,9 @@ C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJA
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJAX\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJAX\Entidades\obj\Debug\Entidades.dll
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJAX\Entidades\obj\Debug\Entidades.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\bin\Debug\Entidades.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.pdb

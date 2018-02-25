@@ -18,3 +18,13 @@ C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJA
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJAX\Web-API-BL\obj\Debug\Web-API-BL.csproj.CoreCompileInputs.cache
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJAX\Web-API-BL\obj\Debug\Web-API-BL.dll
 C:\Users\lgutierrez\Documents\GitHub\Diseno-de-interfaces\Javascript\Web-API-AJAX\Web-API-BL\obj\Debug\Web-API-BL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-BL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-BL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Entidades.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-DAL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Entidades.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-DAL.pdb
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.dll
+C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.pdb
