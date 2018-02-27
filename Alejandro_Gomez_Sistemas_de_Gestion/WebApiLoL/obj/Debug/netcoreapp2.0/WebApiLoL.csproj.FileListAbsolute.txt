@@ -1,0 +1,22 @@
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.deps.json
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.runtimeconfig.json
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.runtimeconfig.dev.json
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.dll
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.pdb
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.csprojResolveAssemblyReference.cache
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.AssemblyInfoInputs.cache
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.AssemblyInfo.cs
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.dll
+C:\Users\fernando\Desktop\Sistemas de Gestion-Git\2017-18\WebApiLoL\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.pdb
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.deps.json
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.runtimeconfig.json
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.runtimeconfig.dev.json
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.dll
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\bin\Debug\netcoreapp2.0\WebApiLoL.pdb
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.csprojResolveAssemblyReference.cache
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.csproj.CoreCompileInputs.cache
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.AssemblyInfoInputs.cache
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.AssemblyInfo.cs
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.dll
+C:\Users\agomez\Desktop\Alejandro_Gomez_Sistemas_de_Gestion\WebApiLoL\obj\Debug\netcoreapp2.0\WebApiLoL.pdb
