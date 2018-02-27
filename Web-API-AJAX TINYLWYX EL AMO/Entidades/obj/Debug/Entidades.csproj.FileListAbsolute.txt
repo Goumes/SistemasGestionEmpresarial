@@ -16,3 +16,9 @@ C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.dll
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Entidades\bin\Debug\Entidades.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Entidades\bin\Debug\Entidades.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Entidades\obj\Debug\Entidades.pdb

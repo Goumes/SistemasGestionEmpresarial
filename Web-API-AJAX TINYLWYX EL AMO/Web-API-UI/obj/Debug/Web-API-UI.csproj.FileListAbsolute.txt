@@ -112,3 +112,47 @@ C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\obj\Debug\Web-API-UI.csproj.CoreCompileInputs.cache
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\obj\Debug\Web-API-UI.dll
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\obj\Debug\Web-API-UI.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Web-API-UI.dll.config
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Web-API-UI.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Web-API-UI.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Antlr3.Runtime.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Entidades.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Microsoft.Web.Infrastructure.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Newtonsoft.Json.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Net.Http.Formatting.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Helpers.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Http.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Http.WebHost.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Mvc.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Optimization.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Razor.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.WebPages.Deployment.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.WebPages.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.WebPages.Razor.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Web-API-BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\WebGrease.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Web-API-DAL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Entidades.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Web-API-BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Antlr3.Runtime.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Helpers.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Mvc.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Optimization.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Razor.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.WebPages.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.WebPages.Deployment.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.WebPages.Razor.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Newtonsoft.Json.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Net.Http.Formatting.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Http.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\System.Web.Http.WebHost.xml
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\Web-API-DAL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\es\System.Net.Http.Formatting.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\es\System.Web.Http.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\bin\es\System.Web.Http.WebHost.resources.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\obj\Debug\Web-API-UI.csprojResolveAssemblyReference.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\obj\Debug\Web-API-UI.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\obj\Debug\Web-API-UI.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-UI\obj\Debug\Web-API-UI.pdb

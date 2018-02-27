@@ -28,3 +28,13 @@ C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.csproj.CoreCompileInputs.cache
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.dll
 C:\Users\aleja\Documents\GitHub\SistemasGestionEmpresarial\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-BL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Entidades.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-DAL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Entidades.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\bin\Debug\Web-API-DAL.pdb
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.csprojResolveAssemblyReference.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.csproj.CoreCompileInputs.cache
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.dll
+D:\agomez\Sistemas de gestión empresarial\Repositorio\Web-API-AJAX TINYLWYX EL AMO\Web-API-BL\obj\Debug\Web-API-BL.pdb

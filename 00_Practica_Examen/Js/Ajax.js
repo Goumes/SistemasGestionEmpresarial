@@ -48,7 +48,8 @@ function pintarTabla()
             {
                 var arrayPersonas = JSON.parse(xml.responseText);
 
-
+                //var numeroRandom = Math.random() * 1000 (Math.random() + 7 % 12);
+                //xml.open("GET", ".../api/personas?random=" + numeroRandom); Para recargar la pagina hay que hacer esto
 
                 var miTabla = document.createElement("table");
                 var filaValues = miTabla.appendChild(document.createElement("tr"));
@@ -120,6 +121,7 @@ function pintarTabla()
 
                     btnEdit.addEventListener('click', function ()
                     {
+                        //this.parentElement.parentElement.childNodes[0].nodeValue = 'valor del node 0';//Aqui estoy añadiendole este valor a la columna 0 de la fila en la que estoy
                         var persona = new Persona(this.getAttribute('id'), this.getAttribute('nombre'), this.getAttribute('apellidos'), this.getAttribute('fechaNac').split("T", 1), this.getAttribute('telefono'), this.getAttribute('direccion'));
                         updateForm(persona);
                     }, false);
